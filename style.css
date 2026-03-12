@@ -36,7 +36,7 @@ header {
 
 /* 40% större logga */
 .logo-box img {
-    max-height: 100px;   /* styr loggans faktiska storlek */
+    max-height: 200px;   /* styr loggans faktiska storlek */
     width: auto;
     object-fit: contain;
     border-radius: 12px;
